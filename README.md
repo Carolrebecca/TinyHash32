@@ -78,9 +78,9 @@ Then open the link shown in your terminal (usually http://localhost:8501).
 
 
 📸 Screenshots
-Streamlit GUI 
-TinyHash32 vs SHA-256 output comparison
-Avalanche demonstration ("hello" vs "h3llo")
+Streamlit GUI ![Demo Screenshot](screenshot/s1.png)  
+TinyHash32 vs SHA-256 output comparison ![Demo Screenshot](screenshot/s2.png)  
+Avalanche demonstration ("hello" vs "h3llo") ![Demo Screenshot](screenshot/s3.png)  
 
 
 
