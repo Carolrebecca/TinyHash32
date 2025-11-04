@@ -1,0 +1,4 @@
+# Core dependencies for TinyHash32 project
+streamlit==1.39.0
+hashlib
+struct
